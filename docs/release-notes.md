@@ -15,3 +15,4 @@ This is an initial version that will be improved with the following releases.
 - [messenger-push](https://github.com/tim-ref/messenger-push/blob/main/CHANGELOG.md)
 - [messenger-rawdata-master](https://github.com/tim-ref/messenger-rawdata-master/blob/main/CHANGELOG.md)
 - [messenger-registration-service](https://github.com/tim-ref/messenger-registration-service/blob/main/CHANGELOG.md)
+
