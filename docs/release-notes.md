@@ -1,3 +1,7 @@
+layout: page
+title: "PAGE-TITLE"
+permalink: /URL-PATH
+
 # Release Notes
 
 All high-level changes for every TI-M ref release, and known bugs will be documented in this file. For more fine granular
