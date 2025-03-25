@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "PAGE-TITLE"
-permalink: /URL-PATH
+title: "Release notes"
+permalink: /release-notes
 ---
 
 # Release Notes
