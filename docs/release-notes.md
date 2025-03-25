@@ -70,5 +70,5 @@ The following restrictions apply when using Testsuite Version 2.1.0:
 ## Version Compatibility Matrix
 
 | Release | Domain Service | Raw Data Master | Registration Service | Messenger Proxy | Org-Admin Client | Org-Admin Test Driver | Messenger Client | Messenger Test Driver | Test Suite |
-| ------- | -------------- | --------------- | -------------------- | --------------- | ---------------- | --------------------- | ---------------- | --------------------- | ---------- |
+| :-----: | :------------: | :-------------: | :------------------: | :-------------: | :--------------: | :-------------------: | :--------------: | :-------------------: | :--------: |
 | 0.24.0  |     1.7.2      |     0.3.14      |        0.6.0         |      0.7.2      |      0.13.0      |        0.16.0         |      1.28.0      |        0.13.0         |   2.1.0    |
