@@ -1,9 +1,3 @@
----
-layout: page
-title: "Release notes"
-permalink: /release-notes.html
----
-
 # Release Notes
 
 All high-level changes for every TI-M ref release, and known bugs will be documented in this file. For more fine granular
