@@ -5,6 +5,8 @@ changes, see the change logs of the individual components.
 
 This is an initial version that will be improved with the following releases.
 
+* [0.24.0 (published on 2025-03-25)](release-notes-0.24.0.md)
+
 **Related change logs**:
 
 - [messenger-client](https://github.com/tim-ref/messenger-client/blob/main/CHANGELOG.md)
@@ -13,34 +15,3 @@ This is an initial version that will be improved with the following releases.
 - [messenger-push](https://github.com/tim-ref/messenger-push/blob/main/CHANGELOG.md)
 - [messenger-rawdata-master](https://github.com/tim-ref/messenger-rawdata-master/blob/main/CHANGELOG.md)
 - [messenger-registration-service](https://github.com/tim-ref/messenger-registration-service/blob/main/CHANGELOG.md)
-
-<!--
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
--->
-
-
-<!--
-
-### Added
-
-- A new feature.
-
-### Changed
-
-- A change in existing functionality.
-
-### Deprecated
-
-- A soon-to-be removed feature.
-
-### Fixed
-
-- A bug fix
-
-### Security
-
-- A vulnerability.
-
--->
-
-* [0.24.0 (published on 2025-03-25)](release-notes-0.24.0.md)
